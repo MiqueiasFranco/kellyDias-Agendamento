@@ -32,7 +32,7 @@
             "scripts": [],
             "server": "src/main.server.ts",
             "prerender": {
-              "discoverRoutes": ,
+              "discoverRoutes":true ,
             },
             "ssr": {
               "entry": "server.ts"
