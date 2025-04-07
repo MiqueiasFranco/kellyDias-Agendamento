@@ -38,7 +38,7 @@ input {
 
 @media (max-width: 450px) {
     .formulario {
-        height: 70vh;
+        height: 50vh;
         width: 70vw;
     }
     
