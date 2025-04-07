@@ -9,7 +9,7 @@ import { Servico } from "../models/servico/servico.module";
 
 export class ServicoService {
 
-    private url = `${environment.api}/servicos`
+    private url = `https://kellydiasfullstack.onrender.com/servicos`
     constructor(private httpClient: HttpClient){
 
     }
